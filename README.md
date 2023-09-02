@@ -1,2 +1,2 @@
-this is qr by javascript;
+QR by javascript;
 
