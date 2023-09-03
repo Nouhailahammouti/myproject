@@ -1,2 +1,2 @@
-QR by javascript;
+QR by javascript; 
 
